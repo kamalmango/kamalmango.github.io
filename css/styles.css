@@ -135,6 +135,10 @@
 	height: 300px;
 }
 
+.img-responsive:hover {
+	box-shadow:0 0 25px #000;
+}
+
 footer {
 	height: 150px;
 	text-align: center;
@@ -143,4 +147,10 @@ footer {
 
 .contact {
 	background: black;
+}
+
+body {
+	font-family: "Lato", sans-serif;
+	color: black;
+	font-weight: 300;
 }
