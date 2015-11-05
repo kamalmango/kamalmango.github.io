@@ -129,13 +129,13 @@
 }
 
 
-.img-responsive {
+.project-img {
 	box-shadow: 0 0 10px black;
 	width: 555px;
 	height: 300px;
 }
 
-.img-responsive:hover {
+.project-img:hover {
 	box-shadow:0 0 25px #000;
 }
 
